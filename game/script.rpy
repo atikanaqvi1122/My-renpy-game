@@ -31,9 +31,15 @@ label start:
             jump stay
 
 label outside:
-    e "The fresh air feels nice."
+    scene bg with dissolve
+    show eileen at eileen_fit
+
+    e "It's freezing out here!"
     return
 
 label stay:
-    e "Maybe I will stay here a little longer."
+    show eileen at eileen_fit
+
+    e "Much better. It's warm in here."
     return
+
