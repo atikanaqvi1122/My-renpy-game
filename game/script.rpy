@@ -18,7 +18,7 @@ label start:
 
     scene bg with dissolve
     show eileen at eileen_fit
- 
+
     e "Hello, and welcome to my game!"
     e "I've been waiting for someone to talk to."
 
