@@ -42,4 +42,3 @@ label stay:
 
     e "Much better. It's warm in here."
     return
-
