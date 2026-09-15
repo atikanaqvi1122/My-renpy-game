@@ -1,4 +1,5 @@
-# My-renpy-game
+# Myrenpygame
+
 `Myrenpygame` is a short choice-driven horror visual novel made with [Ren'Py](https://www.renpy.org/). You play through a tense evening with Eileen, making decisions about a mysterious note, muddy footprints, and the locked house. Different choices lead to different endings.
 
 ## Play locally
