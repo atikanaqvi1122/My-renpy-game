@@ -1,0 +1,23 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 29, in script
+    jump outside
+renpy.script.LabelNotFound: could not find label 'outside'.
+
+-- Full Traceback ------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "game/script.rpy", line 29, in script
+    jump outside
+  File "renpy/ast.py", line 1938, in execute
+    rv = renpy.game.script.lookup(target)
+         ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "renpy/script.py", line 1217, in lookup
+    raise LabelNotFound(original)
+renpy.script.LabelNotFound: could not find label 'outside'.
+
+Windows-11-10.0.26200-SP0 AMD64
+Ren'Py 8.5.3.26051504
+Myrenpygame 1.0
+Wed Sep  9 00:11:14 2026

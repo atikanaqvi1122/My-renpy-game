@@ -1,0 +1,24 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+The label start is defined twice, at File "game/script.rpy", line 17:
+label start:
+and File "game/script.rpy", line 49:
+label start:
+
+
+The label outside is defined twice, at File "game/script.rpy", line 33:
+label outside:
+and File "game/script.rpy", line 66:
+label outside:
+
+
+The label stay is defined twice, at File "game/script.rpy", line 40:
+label stay:
+and File "game/script.rpy", line 75:
+label stay:
+
+
+Ren'Py Version: Ren'Py 8.5.3.26051504
+Wed Sep  9 00:18:24 2026
