@@ -22,4 +22,4 @@ game/screens.rpy is menus and dialogue screens
 game/gui.rpy is the interface stuff
 game/options.rpy is the project name and build settings
 
-## License
+Thank you for reading
